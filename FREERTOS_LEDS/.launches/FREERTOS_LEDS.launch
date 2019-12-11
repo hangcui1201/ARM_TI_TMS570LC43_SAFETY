@@ -7,7 +7,7 @@
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROJECT.TMS570LC43xx.ccxml.Texas Instruments XDS100v2 USB Debug Probe/CortexR5" value="FREERTOS_LEDS"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROJECT.TMS570LC43xx.ccxml.Texas Instruments XDS110 USB Debug Probe_0/CortexR5" value="FREERTOS_LEDS"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_TARGET_CONFIG" value="${target_config_active_default:FREERTOS_LEDS}"/>
-<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.TMS570LC43xx.ccxml.Texas Instruments XDS110 USB Debug Probe_0/CortexR5" value="C:/Github_Repo\ARM_TI_TMS570LC43_SAFETY\workspace\FREERTOS_LEDS\Debug\FREERTOS_LEDS.out"/>
+<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.TMS570LC43xx.ccxml.Texas Instruments XDS110 USB Debug Probe_0/CortexR5" value="C:/Github_Repo\ARM_TI_TMS570LC43_SAFETY\FREERTOS_LEDS\Debug\FREERTOS_LEDS.out"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/FREERTOS_LEDS"/>
 </listAttribute>
